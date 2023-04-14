@@ -1,0 +1,14 @@
+.search-box {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 1rem;
+  width: 15rem;
+  line-height: 2rem;
+  margin: 3rem;
+  border-radius: 5px;
+}
+
+.search-box:hover{
+    box-shadow: 8px 8px 10px rgb(74, 73, 73);
+}
